@@ -1,5 +1,7 @@
-👀 I’m interested in Fronted Dev...
+💻 I am working as **FrontEnd developer**
 
-🌱 I’m currently learning HTML, CSS, JS, React
+🧐 Interested in everything **JavaScript, React, NodeJS, NestJS**
+
+🌱 Currently learning **Redis, PostgreSQL**
 
 📫 How to reach me ayratgazievmail@gmail.com 
